@@ -1,4 +1,4 @@
-# Combate Newspaper Digital Processing
+# COMBAT — Computational Machine Reading of Combate: Comics, Images and Text through OCR/ATR
 
 ## 📄 Overview
 
