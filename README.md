@@ -1,0 +1,1 @@
+# COMBAT-Computational-OCR-ATR-Methods-for-Combate-Comics-Images-and-Text
